@@ -2,26 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
 
-## Development server
+This version is bootstrapped with modules.
+The version with standalone components is available [here](https://github.com/ZhannaZucher/snapface-angular-app)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![snapface](screenshot.png)
 
-## Code scaffolding
+## Project setup
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### 1. Backend
 
-## Build
+Instal the source code cloning it from [here](https://github.com/OpenClassrooms-Student-Center/angular-intermediate-backend)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run `npm install` and `npm run start` for a dev server. Navigate to `http://localhost:3000/`.
 
-## Running unit tests
+### 2. Frontend
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Clone this project from [here](https://github.com/ZhannaZucher/snapface-angular-app) then run `npm install` and `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
